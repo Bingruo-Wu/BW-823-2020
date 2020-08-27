@@ -4,4 +4,4 @@ I am currently a second year master student studying statistical sciences at Duk
 
 ### Procedures
 
-For starters, I created a new repository specifically used for this course and named as BW-823-2020 and chose to build it for public. Then I used the master branch as the root source for this website. After this, I chose 
+For starters, I created a new repository specifically used for this course and named as BW-823-2020 and chose to build it for public. Then I used the master branch as the root source for this website. After this, I used Jekyll as the blogging tool and chose to use Slate as the theme. 
