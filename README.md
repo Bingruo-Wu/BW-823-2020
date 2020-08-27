@@ -1,37 +1,7 @@
-## Welcome to my first GitHub Pages
+## Welcome to Bingruo Wu's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Bingruo-Wu/BW-823-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a second year master student studying statistical sciences at Duke University. This is a website I prepared for my big data class. In this page, I'll describe how I did my first assignment - build my personal website on GitHub Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Procedures
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bingruo-Wu/BW-823-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For starters, I created a new repository under my Github account and named it as the name of this course BIOSTAT823-2020. Then I went to the setting of this repository and under the GitHub Page section, I saved 'master' as the source for my website. After this, I chose one Jekyll theme for my personal website. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
