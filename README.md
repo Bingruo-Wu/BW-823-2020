@@ -10,7 +10,7 @@ For starters, I created a new repository specifically used for this course and n
 
 #### Problem 7: What is the 10001st prime
 
-For this question, I checked whether a number is a prime number by checking if it is divisible by numbers $\leq$ it's square root, which is also the idea how I set up the anonymous function Lambda. Therefore, the 10001st prime for this question is 104743.
+For this question, I checked whether a number is a prime number by checking if it is divisible by numbers <= it's square root, which is also the idea how I set up the anonymous function Lambda. Therefore, the 10001st prime for this question is 104743.
 
 #### Problem 52: Permuted Multiples
 
